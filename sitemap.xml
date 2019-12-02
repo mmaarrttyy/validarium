@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://react-union.org/examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/examples-example-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/landingPage/example1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/validarium</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/landingPage/example3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/examples-library-usage</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/examples-example-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/landingPage/example2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/validarium-installation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/validarium-introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/validarium-features</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/api-core</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/api-predicates</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/api-intl</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/api-validations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/history</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/History/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://react-union.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
